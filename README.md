@@ -87,3 +87,7 @@ This is a portfolio/demo project - the datasets are synthetic (generated with nu
 fixed seed for reproducibility) and the drift thresholds are simple defaults, but the
 PSI and KS-test implementations, and the API contract around them, are real and meant
 to reflect how a lightweight monitoring service would be structured in practice.
+
+## License
+
+Copyright (c) 2026 Rahul Gupta. All rights reserved. Published for viewing and evaluation only; copying or reuse requires written permission. See [LICENSE](LICENSE).
